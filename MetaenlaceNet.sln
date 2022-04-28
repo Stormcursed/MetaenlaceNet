@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetaenlaceNet", "MetaenlaceNet.csproj", "{A24A493F-DF91-4093-8389-1D645198EFB2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8F1A4F67-1110-422A-B43F-16B6C48BC2B7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24A493F-DF91-4093-8389-1D645198EFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24A493F-DF91-4093-8389-1D645198EFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24A493F-DF91-4093-8389-1D645198EFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24A493F-DF91-4093-8389-1D645198EFB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBDAEF4A-88C0-4444-8EF4-74F95B424BC1}
+	EndGlobalSection
+EndGlobal
